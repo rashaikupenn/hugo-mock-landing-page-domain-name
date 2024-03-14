@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /404.html
-Sitemap: http://rashaikcis3500.boats/sitemap.xml
+Sitemap: https://rashaikcis3500.boats/sitemap.xml
